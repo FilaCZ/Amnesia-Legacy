@@ -69,7 +69,7 @@
 		<Entry Name="ItemName_KeyLowerTemple">Cellar Key</Entry>
 		<Entry Name="ItemDesc_KeyLowerTemple">Simple steel key.</Entry>
 		
-		<Entry Name="ItemName_SecretaryKey">Secretary Key</Entry>
+		<Entry Name="ItemName_SecretaryKey">Secretary's Key</Entry>
 		<Entry Name="ItemDesc_SecretaryKey">The secretary must have locked a valuable item in his hiding place.</Entry>
 		
 		<Entry Name="ItemName_UntaggedKey">Untagged Key</Entry>
@@ -123,7 +123,7 @@
 		<Entry Name="Note_EmptyNote_Name">Letter</Entry>
 		<Entry Name="Note_EmptyNote_Text">Clean up your alchemical room. Whenever I come there, the most useful things are on the top shelves.</Entry>
 		// Chapter IV [Forest]
-		<Entry Name="Note_NoteMaze_Name">Chef Warning</Entry>
+		<Entry Name="Note_NoteMaze_Name">Chef's Warning</Entry>
 		<Entry Name="Note_NoteMaze_Text">Are you dare come to my chambers? I assure you, you won't get alive from here. But I will give you little hope.
 		The only way out is through a locked door. Look for the key in one of the chests. Try to search them all....</Entry>
 		
@@ -183,12 +183,12 @@
 		<Entry Name="Quest_EvilCow_Text">The cow door is stuck. I could release it with fire.</Entry>	
 		// Chapter IV [Forest]
 		<Entry Name="Quest_DoorCrowbar_Text">The door at abandoned house is stuck. I have to find a tool to open the door.</Entry>	
-		<Entry Name="Quest_DoorMaze_Text">The door is locked.</Entry>
+		<Entry Name="Quest_DoorMaze_Text">The door at Chef's maze is locked. I have to find the key.</Entry>
 		<Entry Name="Quest_Warehouse_Text">I should explore the warehouse.</Entry>
 		<Entry Name="Quest_AreaBoomLocation_Text">The barricade under stairs is too strong. I have to find a some equipment to break it.</Entry>
 		<Entry Name="Quest_AngelVoice_Text">The angel is in danger. I have to go find him in the temple.</Entry>
 		<Entry Name="Quest_PadlockSteel_Text">The padlock is locked. I should find the key.</Entry>
-		<Entry Name="Quest_KeyMaze_Text">I have the Chef Key. Now I must explore his house.</Entry>
+		<Entry Name="Quest_KeyMaze_Text">I have the Chef's Key. Now I must explore his house.</Entry>
 		// Chapter IV [Warehouse]
 		<Entry Name="Quest_LargeDoor_Text">I have to find a way to lift the heavy door.</Entry>	
 		<Entry Name="Quest_Crank_Text">The rope tied to the crank is not attached anywhere.</Entry>
@@ -291,7 +291,7 @@
 		<Entry Name="Warehouse">The warehouse door is locked.[br]I should find another way.</Entry>
 		<Entry Name="DoorCrowbar">It's stuck.</Entry>
 		<Entry Name="Door_Temple">I have no reason to come to the Temple.</Entry>
-		<Entry Name="DoorMaze">The door is locked.</Entry>
+		<Entry Name="DoorMaze">The door is locked. I have to find the key.</Entry>
 		<Entry Name="LookAtWarehouse">I can see a warehouse. There could be some useful tools.</Entry>
 		<Entry Name="AreaBoomLocation">The barricade is too strong. There could be some useful tools.</Entry>
 		<Entry Name="AngelVoice">[Angel Voice]: I'm in danger. Please find my statue in the temple.</Entry>
