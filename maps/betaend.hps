@@ -1,0 +1,30 @@
+void OnStart()
+{
+	ClearSavedMaps();
+	PlayMusic("21_event_pit", true, 1.2, 0, 0, true);
+	AddTimer("MonsterBeta", 4.5f, "TimerBeta");
+}
+
+void OnPlayerDie(string &in asName, int alCount)
+{
+	StopMusic(0.0f, 5);
+	StartCredits("ending_agrippa.ogg", true, "End", "Beta", 0);
+}
+
+void TimerBeta(string &in asTimer)
+{
+	CheckPoint("BetaEndChecpoint", "StartArea", "OnPlayerDie", "Die", "Beta");
+	SetFogActive(true);
+	for(int i=1;i<=6;i++)
+	{
+		SetEntityActive("monster_"+i, true);
+		AddEnemyPatrolNode("monster_"+i, "PathArea", 0.001f, "");		
+		SetLampLit("darkLamp_"+i, true, true);		
+		for(int j=0;j<=8;j+=2) AddTimer("monster_"+i, j, "TimerBloodlust");
+	}
+}
+
+void TimerBloodlust(string &in asTimer)
+{
+	PlaySoundAtEntity("", "BloodlustTarget.snt", asTimer, 0, false);	
+}

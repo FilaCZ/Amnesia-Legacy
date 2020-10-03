@@ -1,0 +1,8 @@
+//"hurt_pant.snt"
+//"react_pant.snt"
+//"react_scare.snt"
+
+void OnGameStart()
+{
+	SetGlobalVarInt("ForestSubChapterComplete", 0);
+}
