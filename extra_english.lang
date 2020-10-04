@@ -272,7 +272,7 @@
 		<Entry Name="DoorJailer">It's locked.</Entry>
 		<Entry Name="IronMaiden">It's stuck.</Entry>
 		<Entry Name="Door_Forest">First I have to complete the jailer's will.</Entry>
-		<Entry Name="DoorPrison_2">It's stuck.</Entry>
+		<Entry Name="DoorPrison_2">It's stuck. I have to kill the first prisoner first.</Entry>
 		<Entry Name="DoorPrison_3">It's blocked from the other side.[br]I should try to smash that door with the hammer.</Entry>
 		<Entry Name="DoorAlchemy">It's locked.</Entry>
 		<Entry Name="AlchemySecret">It's locked.</Entry>
