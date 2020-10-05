@@ -91,7 +91,7 @@
 			I haven't seen the chef for a few days.[br]
 		[br]Quest:[br]
 			Visit the kitchen.[br]
-			Find the lever in the storage room and put in to the right place.[br]
+			Find the lever in the storage room and put it to the right place.[br]
 			Go to the library.
 		</Entry>
 		// Chapter II [Library]
@@ -124,7 +124,7 @@
 		<Entry Name="Note_EmptyNote_Text">Clean up your alchemical room. Whenever I come there, the most useful things are on the top shelves.</Entry>
 		// Chapter IV [Forest]
 		<Entry Name="Note_NoteMaze_Name">Chef's Warning</Entry>
-		<Entry Name="Note_NoteMaze_Text">Are you dare come to my chambers? I assure you, you won't get alive from here. But I will give you little hope.
+		<Entry Name="Note_NoteMaze_Text">Do you dare to come to my chambers? I assure you, you won't get alive from here. But I will give you little hope.
 		The only way out is through a locked door. Look for the key in one of the chests. Try to search them all....</Entry>
 		
 		// Chapter V [Temple]
@@ -141,16 +141,16 @@
 		
 		<Entry Name="Note_SecretaryNote_Name">Secretary Letter</Entry>
 		<Entry Name="Note_SecretaryNote_Text">
-		The Corruption has come to our shrine. The sacred orb of light was destroyed. It started in the main hall. You can't get into it now. The main door is riddled with some strange ulcers.
+		The Corruption has come to our shrine. The sacred orb of light was destroyed. It started in the main hall. You can't get there now. The main door is riddled with some strange ulcers.
 		Ulcers spread in the basement. A ghost of a warrior began to walk here. Whoever met him directly did not survive.[br][br]
-		These mysteries are too dangerous even for the Secretary of the temple. But before I left this place. I managed to find several parts of the Sacred orb of light.
-		I hid one into the secret place of the knighthood where the pedestal is located too. The second I hid to just lock here in this table. The key is in the cabinet.[br][br]
+		These mysteries are too dangerous even for the Secretary of the temple. But before I left this place I managed to find several parts of the Sacred orb of light.
+		I hid one into the secret place of the knighthood where the pedestal is located too. The second part is located here in this locked table. The key is in the cabinet.[br][br]
 		Please take care of my flowers.
 		</Entry>
 		<Entry Name="Note_Runes_Name">Mysterious Runes</Entry>
 		<Entry Name="Note_Runes_Text">
 		Mysterious runes appeared in one room in this part of the temple. I have no idea what it means, but some are dangerous. Never step on the red ones.
-		They are difficult to distinguish from blacks. It is necessary to shine a lamp on them. White runes indicate a safe place.
+		They are difficult to distinguish from black ones. It is necessary to shine a lamp on them. White runes indicate a safe place.
 		</Entry>
 		
 	//-------------------Quest-------------------//
@@ -179,7 +179,7 @@
 		<Entry Name="Quest_DoorAlchemy_Text">I have to find something to destroy the lock.</Entry>
 		<Entry Name="Quest_Slime_Text">I have to find something to dissolve the slime.</Entry>
 		<Entry Name="Quest_AlchemySecret_Text">The alchemy door is locked. Perhaps something important is behind it.</Entry>
-		<Entry Name="Quest_DoorBridge_Text">Door is locked. I should search this room properly.</Entry>	
+		<Entry Name="Quest_DoorBridge_Text">The door is locked. I should search this room properly.</Entry>	
 		<Entry Name="Quest_EvilCow_Text">The cow door is stuck. I could release it with fire.</Entry>	
 		// Chapter IV [Forest]
 		<Entry Name="Quest_DoorCrowbar_Text">The door at abandoned house is stuck. I have to find a tool to open the door.</Entry>	
@@ -194,8 +194,8 @@
 		<Entry Name="Quest_Crank_Text">The rope tied to the crank is not attached anywhere.</Entry>
 		// Chapter IV [House]
 		<Entry Name="Quest_WoodenBarricadeHouse_Text">The barricade looks weak. I should try to destroy it with a tool.</Entry>
-		<Entry Name="Quest_HeavyDoorHouse_Text">The door is too Heavy. There must be a hidden mechanism to open it.</Entry>
-		<Entry Name="Quest_LockedDoorHouse_Text">I have to find the right key to the door. Should be somewhere at this room.</Entry>
+		<Entry Name="Quest_HeavyDoorHouse_Text">The door is too heavy. There must be a hidden mechanism to open it.</Entry>
+		<Entry Name="Quest_LockedDoorHouse_Text">I have to find the right key to the door. It should be somewhere in this room.</Entry>
 		<Entry Name="Quest_RustyKeyOnDoor_Text">I have to find a way to clear the key.</Entry>
 		<Entry Name="Quest_KillTheChef_Text">I have to kill the Chef with my hammer.</Entry>
 		<Entry Name="Quest_BackToForest_Text">The Chef is dead. I have to go back to the forest.</Entry>
@@ -302,7 +302,7 @@
 		<Entry Name="SlimeAtDoor">What happened?</Entry>
 		
 		<Entry Name="OnLeaveHouseStart">I should look around first.</Entry>
-		<Entry Name="ChefFirst">[Chef]: Do you dare come to my house?</Entry>
+		<Entry Name="ChefFirst">[Chef]: Do you dare to come to my house?</Entry>
 		<Entry Name="AcidTouch"> Ouch. It's a acid.</Entry>
 		<Entry Name="WaterRun">Water is not safe!</Entry>
 		<Entry Name="LockedDoorHouse">Door is locked.</Entry>
@@ -312,10 +312,10 @@
 		
 		<Entry Name="WoodenBarricadeHouse">The barricade looks weak. I should try to destroy it with a tool.</Entry>
 		<Entry Name="HeavyDoorHouse">The door is too heavy. There must be a hidden mechanism.</Entry>
-		<Entry Name="HideFromChef">The Chef is here! I should hide to the cabinet.</Entry>
+		<Entry Name="HideFromChef">The Chef is here! I should hide in the cabinet.</Entry>
 		
 		<Entry Name="AngelPart_1">[Aalot]: Where am I?</Entry>
-		<Entry Name="AngelPart_2">[Aalot]: It is a dream?</Entry>
+		<Entry Name="AngelPart_2">[Aalot]: Is it a dream?</Entry>
 		<Entry Name="AngelPart_3">[Angel]: Did you forget who you are, Aalot?</Entry>
 		<Entry Name="AngelPart_4">[Aalot]: I'm lost.</Entry>
 		<Entry Name="AngelPart_5">[Angel]: You're the knight.</Entry>
@@ -325,7 +325,7 @@
 			
 		<Entry Name="Chapter_5">Chapter V[br]Angelic tears.</Entry>
 		<Entry Name="AngelFirstConversation_1">[Angel]: Aalot, you found me.</Entry>
-		<Entry Name="AngelFirstConversation_2">[Angel]: The cursed knight corrupt the temple.</Entry>
+		<Entry Name="AngelFirstConversation_2">[Angel]: The cursed knight corrupted the temple.</Entry>
 		<Entry Name="AngelFirstConversation_3">[Angel]: You know him. He's your old friend.</Entry>
 		<Entry Name="AngelFirstConversation_4">[Aalot]: My old friend?</Entry>
 		<Entry Name="AngelFirstConversation_5">[Angel]: He stood by your side in the glorious battle.</Entry>
@@ -340,9 +340,9 @@
 		<Entry Name="AngelHint_EndGate">[Angel]: The way is open. You have to go to the Heart of the temple.</Entry>
 		<Entry Name="SecretPassage">I need to find how to open the secret passage.</Entry>
 		<Entry Name="LockedCellarDoor">The door is locked. I have to find the key.</Entry>
-		<Entry Name="SecretarySmallDoor">The small door is locked. I have to find the key.</Entry>
+		<Entry Name="SecretarySmallDoor">Small door is locked. I have to find the key.</Entry>
 		<Entry Name="HeavyDoor_1">The door is too heavy. I have to find a way to open it.</Entry>
-		<Entry Name="UntaggedSmallDoor_2">The small door is locked. I have to find the key.</Entry>
+		<Entry Name="UntaggedSmallDoor_2">Small door is locked. I have to find the key.</Entry>
 		<Entry Name="AngelVoiceGate">[Angel]: The main gate is opening. We must stop the evil.</Entry>
 			
 		<Entry Name="Chapter_6">Chapter VI[br]Temple core.</Entry>
@@ -355,7 +355,7 @@
 		<Entry Name="AngelVoiceEndPart_3">[Angel Voice]: He is here!</Entry>
 		
 		<Entry Name="BruteConversationEndPart_1">[The dead warrior]: You have nowhere to run.</Entry>
-		<Entry Name="BruteConversationEndPart_2">[The dead warrior]: Face to me like as knight.</Entry>
+		<Entry Name="BruteConversationEndPart_2">[The dead warrior]: Face me as a knight.</Entry>
 		<Entry Name="BruteConversationEndPart_3">[Angel voice]: I'll send you your hammer.</Entry>
 		
 		<Entry Name="Fight_BruteHint">[The dead warrior]: You can't kill me.</Entry>
@@ -405,7 +405,7 @@
 		<Entry Name="UnstableMixture">Unstable Mixture.</Entry>
 		<Entry Name="TempleMainDoor">Heart of the temple.</Entry>
 		<Entry Name="LeverBridge">The lever is missing.</Entry>
-		<Entry Name="Corrupt">The corrupt is too strong.[br]I have to complete the orb.</Entry>
+		<Entry Name="Corrupt">The corruption is too strong.[br]I have to complete the orb.</Entry>
 	</CATEGORY>
 	
 	<CATEGORY Name="Levels">
@@ -413,7 +413,7 @@
 		<Entry Name="Library">Library</Entry>
 		<Entry Name="Crypt">Crypt</Entry>
 		<Entry Name="Forest">Forest</Entry>
-		<Entry Name="House">Chef House</Entry>
+		<Entry Name="House">Chef's House</Entry>
 		<Entry Name="Warehouse">Warehouse</Entry>
 		<Entry Name="Temple">Temple</Entry>
 		<Entry Name="TempleCore">Heart of the temple</Entry>
@@ -426,7 +426,7 @@
 		</Entry>
 		<Entry Name="Full">
 			Aalot, the knight sacrificed his life to stop the corruption.[br]
-			No one except the mysterious angel knows nothing about his great sacrifice.[br]
+			No one except the mysterious angel knows anything about his great sacrifice.[br]
 			This made his soul rest in peace.[br]
 			[br][br][br][br][br]
 			Thank you for playing.[br][br][br]
